@@ -19,6 +19,3 @@ big3.o:big3.c
 sort.o:sort.c
 	gcc -c sort.c
 
-
-clean:
-	rm -rf * .o
